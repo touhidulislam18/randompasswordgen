@@ -1,0 +1,26 @@
+body{
+    margin-top: 170px;
+    background-color: #313131;
+    color: azure;
+    text-align: center;
+}
+
+.btn{
+    margin-top: 30px;
+    background-color: #11d7e6;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;    
+}
+
+.pass{
+    font-size: 20px;
+}
+
+.passspan{
+    font-weight: 600;
+    font-size: 22px;
+}
